@@ -21925,6 +21925,8 @@ with pkgs;
 
   ldb = callPackage ../development/libraries/ldb { };
 
+  ldproxy = callPackage ../development/tools/rust/ldproxy { };
+
   lensfun = callPackage ../development/libraries/lensfun { };
 
   lesbar = callPackage ../applications/window-managers/lesbar { };
