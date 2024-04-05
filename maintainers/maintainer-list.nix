@@ -1425,6 +1425,12 @@
     githubId = 4194320;
     name = "Anton Schirg";
   };
+  aorith = {
+    email = "aomanu+nixpkgs@gmail.com";
+    github = "aorith";
+    githubId = 5411704;
+    name = "Manuel Sanchez Pinar";
+  };
   apeschar = {
     email = "albert@peschar.net";
     github = "apeschar";
@@ -10867,6 +10873,12 @@
     }];
     name = "Yaroslav Bolyukin";
   };
+  lachrymal = {
+    email = "lachrymalfutura@gmail.com";
+    name = "lachrymaL";
+    github = "lachrymaLF";
+    githubId = 13716477;
+  };
   lafrenierejm = {
     email = "joseph@lafreniere.xyz";
     github = "lafrenierejm";
@@ -14324,6 +14336,12 @@
     githubId = 6930756;
     name = "Nicolas Mattia";
   };
+  noaccos = {
+    name = "Francesco Noacco";
+    email = "francesco.noacco2000@gmail.com";
+    github = "noaccOS";
+    githubId = 24324352;
+  };
   nobbz = {
     name = "Norbert Melzer";
     email = "timmelzer+nixpkgs@gmail.com";
@@ -17192,6 +17210,12 @@
     github = "russell";
     githubId = 2660;
     name = "Russell Sim";
+  };
+  rutherther = {
+    name = "Rutherther";
+    email = "rutherther@proton.me";
+    github = "rutherther";
+    githubId = 12197024;
   };
   ruuda = {
     email = "dev+nix@veniogames.com";
